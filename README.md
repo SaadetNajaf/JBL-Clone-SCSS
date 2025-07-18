@@ -5,28 +5,28 @@
 ---
 ## ⚙️ Features
 
-✅ **Responsive Design**
+✅ **Responsive Design**  
 Optimized for mobile, tablet, and desktop devices. 
 
-✅ **Animated Headings & Buttons**
+✅ **Animated Headings & Buttons**  
 Smooth visual interactions that enhance user engagement. 
 
-✅ **Product Favorites Section**
+✅ **Product Favorites Section**  
 Display of different product models with images and captions.  
 
-✅ **Tooltip Highlights**
+✅ **Tooltip Highlights**  
 Interactive labels pointing out product features.  
 
-✅ **About Section**
+✅ **About Section**  
 Brief information about the company or product line.
 
-✅ **Sponsor Logos**
+✅ **Sponsor Logos**  
 Trusted brands associated with JBL are highlighted. 
 
-✅ **Social Media Links**
+✅ **Social Media Links**  
 Instagram, Facebook, and YouTube icons for user interaction.  
 
-✅ **Email Subscription Form**
+✅ **Email Subscription Form**  
 Simple input field for collecting user emails.
 
 ---
